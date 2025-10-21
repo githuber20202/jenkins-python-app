@@ -1,0 +1,6 @@
+# Python Standard Library Only
+# No external dependencies needed for this simple app
+
+# Future dependencies (when we add Flask/FastAPI):
+# flask==3.0.0
+# pytest==7.4.0
